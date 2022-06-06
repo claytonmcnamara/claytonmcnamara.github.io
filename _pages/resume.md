@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resume/
-title: Resume
+title: resume
 nav: true
 nav_order: 2
 ---
