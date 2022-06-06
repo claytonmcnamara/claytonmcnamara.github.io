@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /resume/
-title: resume
+permalink: /cv/
+title: cv
 years: [2022]
 nav: true
 nav_order: 2
@@ -14,7 +14,7 @@ nav_order: 2
 * Expertise in GIS, Python and R for spatiotemporal analysis and visualization
 * Professional and academic experience in analysis and project leadership
 
-<!-- _pages/resume.md -->
+<!-- _pages/cv.md -->
 <div class="resume">
 
 {%- for y in page.years %}
