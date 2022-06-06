@@ -24,7 +24,7 @@ nav_order: 2
 ***
  
 <details><summary> </summary>
-ul>
+<ul>
   <li>lorem ipsum</li>
 </ul>
 </details>
