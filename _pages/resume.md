@@ -21,20 +21,20 @@ nav_order: 2
 <table>
 <tbody>
 	<tr>
-		<td>GIS (ArcGIS, Socet GXP, Google Earth, RemoteView, ENVI, ERDAS, Palantir)</td>
-		<td>Statistical Programming (Stata, Minitab, Python, R, SQL)</td>
+		<td>ArcGIS (ArcGIS Rest API, ArcGIS Pro/Desktop/Map)</td>
+		<td>GIS (SOCET GXP, RemoteView, ENVI, ERDAS, Palantir)</td>
 	</tr>
 	<tr>
-		<td>Geodatabase Database Management</td>
-		<td>Data QA/QC </td>
+		<td>Programming (Python, R, SQL)</td>
+		<td>Statistical Analysis (Stata, Minitab)</td>
+	</tr>
+	<tr>
+		<td>Geodatabase Management</td>
+		<td>Data QA/QC</td>
 	</tr>
  	<tr>
 		<td>Research and Analysis</td>
 		<td>Project Management</td>
-	</tr>
-  	<tr>
-		<td>Report Writing/Briefing</td>
-		<td>Technical Problem Solving</td>
 	</tr>
 </tbody>
 </table>
