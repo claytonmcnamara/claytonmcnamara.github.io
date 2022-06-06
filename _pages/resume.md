@@ -53,11 +53,12 @@ nav_order: 2
 
 <h3>Teaching</h3>
 
-<h3>Interests and Community Involvement</h3>
+<details><summary><h3>Interests and Community Involvement</h3></summary>
 <ul>
   <li>2018/2019: Ran cooking area for 400 service members/families across multiple summer events</li>
-  <li>02/2018-10/2018: Organized ongoing 693 ISRG fundraiser. Managed $3.6k budget, raised profits of $1300. Proceeds were used to fund 6 squadron events</li>
+  <li>02-10/2018: Organized ongoing 693 ISRG fundraiser. Managed $3,600 budget, raised profits of $1,300. Proceeds were used to fund 6 squadron events</li>
 </ul>
+</details>
 
 <h3>Memberships in Professional and Academic Organizations</h3>
 American Statistical Association (ASA), Gamma Theta Upsilon International Geography Honors Society (Alpha Tau Chapter), Alpha Sigma Lambda Academic Honors Society (Pi Delta Chi Chapter)
