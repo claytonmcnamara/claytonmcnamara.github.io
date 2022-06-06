@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 2
 ---
+**`Jan 2022` USAF Group-level Course on GIS Fundamentals**
+* Course materials have since been expanded upon and are available [here](https://intro-to-gis-applications.000webhostapp.com/)
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+**`Jan 2019-Aug 2019` USAF Group-level GIS Instructor for ArcGIS Pro Fundamentals/Data Management/Advanced Data Vetting**
