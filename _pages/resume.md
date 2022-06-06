@@ -32,7 +32,7 @@ lorum ipsum
 ***
  
 <details><summary> </summary>
-</details>
+
 
 <h3>Professional Awards and Achievements</h3>
  
@@ -50,7 +50,7 @@ lorum ipsum
 <p>Awarded (coined) by Director of National Geospatial-Intelligence Agency | 03/2018<br>
 <blockquote><em>Authored a high visibility GEOINT report identifying enemy tactical change that led to theater strategic response changes at the EUCOM level (CONOP)</em></blockquote>
 <p>Technical Training Academic Achievement Award | 08/2017<br>
-<p>Basic Military Training Honor Grad | 03/2017<br></details>
+<p>Basic Military Training Honor Grad | 03/2017</p></details>
 
 <h3>Training and Certifications</h3>
  
