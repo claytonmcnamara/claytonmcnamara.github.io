@@ -32,7 +32,8 @@ lorum ipsum
 ***
  
 <details><summary> </summary>
-
+lorum ipsem
+</details>
 
 <h3>Professional Awards and Achievements</h3>
  
@@ -68,7 +69,7 @@ lorum ipsum
 </ul>
 <p><strong>Airman Leadership School, Kapaun AFB,</strong> R-P, Germany | 09/2019<br>
 <p><strong>1N1X1 Imagery Analysis Course, Goodfellow AFB,</strong> TX | 09/2017<br>
-<p><strong>Air Force Basic Military Training,</strong> Lackland AFB, TX | 03/2017<br></details>
+<p><strong>Air Force Basic Military Training,</strong> Lackland AFB, TX | 03/2017</p></details>
 
 <h3>Publications</h3>
  
