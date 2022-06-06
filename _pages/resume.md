@@ -50,8 +50,7 @@ lorum ipsum
 <p>Awarded (coined) by Director of National Geospatial-Intelligence Agency | 03/2018<br>
 <blockquote><em>Authored a high visibility GEOINT report identifying enemy tactical change that led to theater strategic response changes at the EUCOM level (CONOP)</em></blockquote>
 <p>Technical Training Academic Achievement Award | 08/2017<br>
-<p>Basic Military Training Honor Grad | 03/2017<br>
-</details>
+<p>Basic Military Training Honor Grad | 03/2017<br></details>
 
 <h3>Training and Certifications</h3>
  
@@ -69,8 +68,7 @@ lorum ipsum
 </ul>
 <p><strong>Airman Leadership School, Kapaun AFB,</strong> R-P, Germany | 09/2019<br>
 <p><strong>1N1X1 Imagery Analysis Course, Goodfellow AFB,</strong> TX | 09/2017<br>
-<p><strong>Air Force Basic Military Training,</strong> Lackland AFB, TX | 03/2017<br>
-</details>
+<p><strong>Air Force Basic Military Training,</strong> Lackland AFB, TX | 03/2017<br></details>
 
 <h3>Publications</h3>
  
@@ -104,6 +102,5 @@ lorum ipsem
 ***
 
 <details><summary> </summary>
-American Statistical Association (ASA), Gamma Theta Upsilon International Geography Honors Society (Alpha Tau Chapter), Alpha Sigma Lambda Academic Honors Society (Pi Delta Chi Chapter)
-</details>
+American Statistical Association (ASA), Gamma Theta Upsilon International Geography Honors Society (Alpha Tau Chapter), Alpha Sigma Lambda Academic Honors Society (Pi Delta Chi Chapter)</details>
 
