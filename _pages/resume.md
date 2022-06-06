@@ -17,25 +17,27 @@ nav_order: 2
 
 <h3>Key Compentences</h3>
 
+***
+
 <h3>Professional Experience</h3>
 
 ***
 
-<details><summary>expand</summary>
+<details><summary> </summary>
 </details>
 
 <h3>Education</h3>
 
 ***
 
-<details><summary>expand</summary>
+<details><summary> </summary>
 </details>
   
 <h3>Professional Awards and Achievements</h3>
 
 ***
   
-<details><summary>expand</summary>
+<details><summary> </summary>
 <p>Invited Presentation at 14th Annual Conference on Global Challenges, Drexel University | 05/2021<br>
 <p>Flight of the Quarter for DOOC flight, 450th Intelligence Squadron | 12/2020<br>
 <p>Airman Below the Zone (BTZ) | 01/2019<br>
@@ -54,7 +56,7 @@ nav_order: 2
 
 ***
 
-<details><summary>expand</summary>
+<details><summary> </summary>
 <p><strong>ESRI Training Courses</strong> (104 hours) | 12/2018-Present<br>
 <p><em>(°indicates formal instructor-led)</em><br>
 <ul>
@@ -73,7 +75,7 @@ nav_order: 2
 
 ***
 
-<details><summary>expand</summary>
+<details><summary> </summary>
 <ul>
   <li></li>
 </ul>
@@ -83,7 +85,7 @@ nav_order: 2
 
 ***
 
-<details><summary>expand</summary>
+<details><summary> </summary>
 <ul>
     <li></li>
 </ul>
@@ -93,7 +95,7 @@ nav_order: 2
 
 ***
 
-<details><summary>expand</summary>
+<details><summary> </summary>
 <ul>
   <li>2018/2019: Ran cooking area for 400 service members/families across multiple summer events</li>
   <li>02-10/2018: Organized ongoing 693 ISRG fundraiser. Managed $3,600 budget, raised profits of $1,300. Proceeds were used to fund 6 squadron events</li>
@@ -101,4 +103,10 @@ nav_order: 2
 </details>
 
 <h3>Memberships in Professional and Academic Organizations</h3>
+
+***
+
+<details><summary> </summary>
 American Statistical Association (ASA), Gamma Theta Upsilon International Geography Honors Society (Alpha Tau Chapter), Alpha Sigma Lambda Academic Honors Society (Pi Delta Chi Chapter)
+</details>
+
