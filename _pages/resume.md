@@ -19,23 +19,42 @@ nav_order: 2
 
 <h3>Professional Experience</h3>
 
+***
+
+<details><summary>expand</summary>
+</details>
+
 <h3>Education</h3>
 
+***
+
+<details><summary>expand</summary>
+</details>
+  
 <h3>Professional Awards and Achievements</h3>
+
+***
+  
+<details><summary>expand</summary>
 <p>Invited Presentation at 14th Annual Conference on Global Challenges, Drexel University | 05/2021<br>
 <p>Flight of the Quarter for DOOC flight, 450th Intelligence Squadron | 12/2020<br>
 <p>Airman Below the Zone (BTZ) | 01/2019<br>
 <p>Awarded (coined) by Deputy Chief of Staff for Headquarters Air Force ISR | 12/2018<br>
 <p>Flight of the Quarter for DOX flight, 450th Intelligence Squadron | 09/2018<br>
 <p>Squadron Outstanding Airman of the Quarter, 450th Intelligence Squadron | 06/2018<br>
-> <em>Lauded by NASIC for GEOINT threat report identifying enemy mobility exercise site</em>
+<blockquote><em>Lauded by NASIC for GEOINT threat report identifying enemy mobility exercise site</em></blockquote> 
 <p>Squadron Outstanding Airman of the Month, 450th Intelligence Squadron | 05/2018<br>
 <p>Awarded (coined) by Director of National Geospatial-Intelligence Agency | 03/2018<br>
-> <em>Authored a high visibility GEOINT report identifying enemy tactical change that led to theater strategic response changes at the EUCOM level (CONOP)</em>
+<blockquote><em>Authored a high visibility GEOINT report identifying enemy tactical change that led to theater strategic response changes at the EUCOM level (CONOP)</em></blockquote>
 <p>Technical Training Academic Achievement Award | 08/2017<br>
 <p>Basic Military Training Honor Grad | 03/2017<br>
+</details>
 
 <h3>Training and Certifications</h3>
+
+***
+
+<details><summary>expand</summary>
 <p><strong>ESRI Training Courses</strong> (104 hours) | 12/2018-Present<br>
 <p><em>(°indicates formal instructor-led)</em><br>
 <ul>
@@ -48,12 +67,33 @@ nav_order: 2
 <p><strong>Airman Leadership School, Kapaun AFB,</strong> R-P, Germany | 09/2019<br>
 <p><strong>1N1X1 Imagery Analysis Course, Goodfellow AFB,</strong> TX | 09/2017<br>
 <p><strong>Air Force Basic Military Training,</strong> Lackland AFB, TX | 03/2017<br>
+</details>
 
 <h3>Publications</h3>
 
+***
+
+<details><summary>expand</summary>
+<ul>
+  <li></li>
+</ul>
+</details>
+
 <h3>Teaching</h3>
 
-<details><summary><h3>Interests and Community Involvement</h3></summary>
+***
+
+<details><summary>expand</summary>
+<ul>
+    <li></li>
+</ul>
+</details>
+
+<h3>Interests and Community Involvement</h3>
+
+***
+
+<details><summary>expand</summary>
 <ul>
   <li>2018/2019: Ran cooking area for 400 service members/families across multiple summer events</li>
   <li>02-10/2018: Organized ongoing 693 ISRG fundraiser. Managed $3,600 budget, raised profits of $1,300. Proceeds were used to fund 6 squadron events</li>
