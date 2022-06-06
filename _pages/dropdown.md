@@ -8,4 +8,9 @@ children:
     - title: resume
       permalink: /resume/
     - title: divider
+    - title: publications
+      permalink: /publications/
+    - title: divider
+    - title: teaching
+      permalink: /teaching/
 ---
