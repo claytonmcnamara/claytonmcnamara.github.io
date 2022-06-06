@@ -86,13 +86,13 @@ nav_order: 2
 <details><summary> </summary>
 <ul>
   <li><strong>ESRI Training Courses</strong> (104 hours) | 12/2018-Present<br>
-   <em>(°indicates formal instructor-led)</em><br></li>
+   <em>(^indicates formal instructor-led)</em><br></li>
 <ul>
-  <li>Spatial Analysis with ArcGIS Pro (24 hours)°</li>
-  <li>Image Exploitation for Defense and Intelligence (24 hours)°</li>
-  <li>Using ArcGIS for Geospatial Intelligence Analysis (16 hours)°</li>
-  <li>Portal for ArcGIS: User Workflows (PAUD) (16 hours)°</li>
-  <li>Introduction to Geospatial Concepts for Intelligence (16 hours)°</li>
+  <li>Spatial Analysis with ArcGIS Pro (24 hours)^</li>
+  <li>Image Exploitation for Defense and Intelligence (24 hours)^</li>
+  <li>Using ArcGIS for Geospatial Intelligence Analysis (16 hours)^</li>
+  <li>Portal for ArcGIS: User Workflows (PAUD) (16 hours)^</li>
+  <li>Introduction to Geospatial Concepts for Intelligence (16 hours)^</li>
 </ul>
   <li><strong>Airman Leadership School, Kapaun AFB,</strong> R-P, Germany | 09/2019</li>
   <li><strong>1N1X1 Imagery Analysis Course, Goodfellow AFB,</strong> TX | 09/2017</li>
