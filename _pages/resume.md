@@ -16,27 +16,28 @@ nav_order: 2
 ***
 
 <h3>Key Compentences</h3>
-
+ 
 ***
-
+ 
 <h3>Professional Experience</h3>
-
+ 
 ***
-
+ 
 <details><summary> </summary>
+lorum ipsum
 </details>
 
 <h3>Education</h3>
-
+ 
 ***
-
+ 
 <details><summary> </summary>
 </details>
-  
-<h3>Professional Awards and Achievements</h3>
 
+<h3>Professional Awards and Achievements</h3>
+ 
 ***
-  
+ 
 <details><summary> </summary>
 <p>Invited Presentation at 14th Annual Conference on Global Challenges, Drexel University | 05/2021<br>
 <p>Flight of the Quarter for DOOC flight, 450th Intelligence Squadron | 12/2020<br>
@@ -53,9 +54,9 @@ nav_order: 2
 </details>
 
 <h3>Training and Certifications</h3>
-
+ 
 ***
-
+ 
 <details><summary> </summary>
 <p><strong>ESRI Training Courses</strong> (104 hours) | 12/2018-Present<br>
 <p><em>(°indicates formal instructor-led)</em><br>
@@ -72,29 +73,25 @@ nav_order: 2
 </details>
 
 <h3>Publications</h3>
-
+ 
 ***
-
+ 
 <details><summary> </summary>
-<ul>
-  <li></li>
-</ul>
+lorem ipsum
 </details>
 
 <h3>Teaching</h3>
-
+ 
 ***
-
+ 
 <details><summary> </summary>
-<ul>
-    <li></li>
-</ul>
+lorum ipsem
 </details>
 
 <h3>Interests and Community Involvement</h3>
-
+ 
 ***
-
+ 
 <details><summary> </summary>
 <ul>
   <li>2018/2019: Ran cooking area for 400 service members/families across multiple summer events</li>
