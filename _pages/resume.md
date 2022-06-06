@@ -55,8 +55,8 @@ nav_order: 2
 
 <h3>Interests and Community Involvement</h3>
 <ul>
-  <li>Ran a cooking area for 400 service members and their families across multiple summer events 2018/2019</li>
-  <li>Organized ongoing 693 ISRG fundraiser 02/2018 - 10/2018. Managed a $3.6k budget and raised profits of $1300. Proceeds were used to fund 6 squadron events.</li>
+  <li>2018/2019: Ran cooking area for 400 service members/families across multiple summer events</li>
+  <li>02/2018-10/2018: Organized ongoing 693 ISRG fundraiser. Managed $3.6k budget, raised profits of $1300. Proceeds were used to fund 6 squadron events</li>
 </ul>
 
 <h3>Memberships in Professional and Academic Organizations</h3>
