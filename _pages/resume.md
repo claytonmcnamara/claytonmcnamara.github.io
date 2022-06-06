@@ -32,7 +32,9 @@ lorum ipsum
 ***
  
 <details><summary> </summary>
-lorum ipsem
+<ul>
+  <li>lorem ipsum</li>
+</ul>
 </details>
 
 <h3>Professional Awards and Achievements</h3>
@@ -76,7 +78,9 @@ lorum ipsem
 ***
  
 <details><summary> </summary>
-lorem ipsum
+<ul>
+  <li>lorem ipsum</li>
+</ul>
 </details>
 
 <h3>Teaching</h3>
@@ -84,7 +88,9 @@ lorem ipsum
 ***
  
 <details><summary> </summary>
-lorum ipsem
+<ul>
+  <li>lorem ipsum</li>
+</ul>
 </details>
 
 <h3>Interests and Community Involvement</h3>
