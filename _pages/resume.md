@@ -18,9 +18,14 @@ nav_order: 2
 <h3>Key Compentences</h3>
  
 ***
- 
+
+| GIS (ArcGIS, Socet GXP, Google Earth, RemoteView, ENVI, ERDAS, Palantir) | Statistical Programming (Stata, Minitab, Python, R, SQL) |
+| Geodatabase Database Management | Data QA/QC |
+| Research and Analysis | Project Management|
+| Report Writing/Briefing | Technical Problem Solving |
+
 <h3>Professional Experience</h3>
- 
+
 ***
  
 <details><summary> </summary>
