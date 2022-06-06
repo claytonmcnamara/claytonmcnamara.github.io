@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: **ML Research** @ USAF  
 
 profile:
   align: right
@@ -14,6 +13,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+**Geospatial Analyst** @ USAF  
 
 I’m a Geospatial Analyst on active duty for the USAF, working on problems at the intersection of GIS and intelligence threats. Academically, my research interests are  in probabilistic modeling, machine learning, and spatial statistics applied to problems in environmental geoscience. See the projects page for interesting recent work.
 
