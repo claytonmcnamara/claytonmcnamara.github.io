@@ -27,22 +27,22 @@ nav_order: 2
 	</tr>
 	<tr>
 		<td>Programming (Python, SQL)</td>
-		<td style="width:50%"> </td>
+		<td> </td>
 		<td>Statistical Analysis (Stata, R, Minitab)</td>
 	</tr>
 	<tr>
 		<td>Geodatabase Management</td>
-		<td style="width:50%"> </td>
+		<td> </td>
 		<td>Data QA/QC</td>
 	</tr>
  	<tr>
 		<td>Research and Analysis</td>
-		<td style="width:50%"> </td>
+		<td> </td>
 		<td>Project Management</td>
 	</tr>
 	<tr style="height:20px">
 		<td> </td>
-		<td style="width:50%"> </td>
+		<td> </td>
 		<td> </td>
 	</tr>
 </tbody>
