@@ -21,7 +21,7 @@ nav_order: 2
 <table>
 <tbody>
 	<tr>
-		<td>ArcGIS (ArcGIS Rest API, ArcGIS Pro/Map)</td>
+		<td>ArcGIS (Rest API, Pro, Map)</td>
 		<td>GIS (SOCET GXP, RemoteView, ENVI, ERDAS, Palantir)</td>
 	</tr>
 	<tr>
@@ -36,9 +36,12 @@ nav_order: 2
 		<td>Research and Analysis</td>
 		<td>Project Management</td>
 	</tr>
+	<tr>
+		<td>  </td>
+		<td>  </td>
+	</tr>
 </tbody>
 </table>
-
 
 <h3>Professional Experience</h3>
 
