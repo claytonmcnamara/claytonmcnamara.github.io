@@ -18,27 +18,32 @@ nav_order: 2
 <h3>Key Compentences</h3>
  
 ***
-<table>
+<tables tyle="width:100%">
 <tbody>
 	<tr>
 		<td>ArcGIS (Rest API, Pro, Map)</td>
+		<td style="width:50%"> </td>
 		<td>GIS (SOCET GXP, RemoteView, ENVI, ERDAS, Palantir)</td>
 	</tr>
 	<tr>
 		<td>Programming (Python, SQL)</td>
+		<td style="width:50%"> </td>
 		<td>Statistical Analysis (Stata, R, Minitab)</td>
 	</tr>
 	<tr>
 		<td>Geodatabase Management</td>
+		<td style="width:50%"> </td>
 		<td>Data QA/QC</td>
 	</tr>
  	<tr>
 		<td>Research and Analysis</td>
+		<td style="width:50%"> </td>
 		<td>Project Management</td>
 	</tr>
-	<tr>
-		<td>  </td>
-		<td>  </td>
+	<tr style="height:20px">
+		<td> </td>
+		<td style="width:50%"> </td>
+		<td> </td>
 	</tr>
 </tbody>
 </table>
