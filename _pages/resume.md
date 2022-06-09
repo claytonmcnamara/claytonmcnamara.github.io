@@ -60,18 +60,18 @@ nav_order: 2
 <details><summary> </summary>
 <ul>
   <li><strong>American Military University,</strong> Charles Town, WV | exp. 2022
-	  BS Natural Sciences, concentration in Earth Sciences</li>
+	  <DD>BS Natural Sciences, concentration in Earth Sciences</DD> <!-- No Space --></li>
   <li><strong>Thomas Edison State University,</strong> Trenton, NJ | exp. 2022
-	  BA Environmental Studies and Mathematics
-	  BSBA in Healthcare Management and Finance
-	  AS Natural Sciences and Mathematics in Computer Science and Mathematics
-	  AAS Health Studies
+	  <DD>BA Environmental Studies and Mathematics</DD> <!-- No Space -->
+	  <DD>BSBA in Healthcare Management and Finance</DD> <!-- No Space -->
+	  <DD>AS Natural Sciences and Mathematics in Computer Science and Mathematics</DD> <!-- No Space -->
+	  <DD>AAS Health Studies</DD> <!-- No Space -->
 	</li>
   <li><strong>Pennsylvania State University,</strong> University Park, PA | 2022
-	  BS Economics, minors in Geography and Energy Business Finance
-	  GPA: 3.9 (magna cum laude)</li>
+	  <DD>BS Economics, minors in Geography and Energy Business Finance</DD> <!-- No Space -->
+	  <DD>GPA: 3.9 (magna cum laude)</DD> <!-- No Space --></li>
   <li><strong>Community College of the Airforce,</strong> Maxwell AFB, AL | 2018
-	  AAS Intelligence Studies and Technology</li>
+	  <DD>AAS Intelligence Studies and Technology</DD> <!-- No Space --></li>
 </ul>
 </details>
 
