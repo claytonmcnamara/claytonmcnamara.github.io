@@ -21,12 +21,12 @@ nav_order: 2
 <table>
 <tbody>
 	<tr>
-		<td>ArcGIS (ArcGIS Rest API, ArcGIS Pro/Desktop/Map)</td>
+		<td>ArcGIS (ArcGIS Rest API, ArcGIS Pro/Map)</td>
 		<td>GIS (SOCET GXP, RemoteView, ENVI, ERDAS, Palantir)</td>
 	</tr>
 	<tr>
-		<td>Programming (Python, R, SQL)</td>
-		<td>Statistical Analysis (Stata, Minitab)</td>
+		<td>Programming (Python, SQL)</td>
+		<td>Statistical Analysis (Stata, R, Minitab)</td>
 	</tr>
 	<tr>
 		<td>Geodatabase Management</td>
@@ -38,6 +38,7 @@ nav_order: 2
 	</tr>
 </tbody>
 </table>
+
 
 <h3>Professional Experience</h3>
 
@@ -55,7 +56,19 @@ nav_order: 2
  
 <details><summary> </summary>
 <ul>
-  <li>lorem ipsum</li>
+  <li><strong>American Military University,</strong> Charles Town, WV | exp. 2022
+	  BS Natural Sciences, concentration in Earth Sciences</li>
+  <li><strong>Thomas Edison State University,</strong> Trenton, NJ | exp. 2022
+	  BA Environmental Studies and Mathematics
+	  BSBA in Healthcare Management and Finance
+	  AS Natural Sciences and Mathematics in Computer Science and Mathematics
+	  AAS Health Studies
+	</li>
+  <li><strong>Pennsylvania State University,</strong> University Park, PA | 2022
+	  BS Economics, minors in Geography and Energy Business Finance
+	  GPA: 3.9 (magna cum laude)</li>
+  <li><strong>Community College of the Airforce,</strong> Maxwell AFB, AL | 2018
+	  AAS Intelligence Studies and Technology</li>
 </ul>
 </details>
 
@@ -70,10 +83,10 @@ nav_order: 2
   <li>Awarded (coined) by Deputy Chief of Staff for Headquarters Air Force ISR | 12/2018</li>
   <li>Flight of the Quarter for DOX flight, 450th Intelligence Squadron | 09/2018</li>
   <li>Squadron Outstanding Airman of the Quarter, 450th Intelligence Squadron | 06/2018</li>
-<blockquote><em>Lauded by NASIC for GEOINT threat report identifying enemy mobility exercise site</em></blockquote> 
+<blockquote style="font-size:18px"><em>Lauded by NASIC for GEOINT threat report identifying enemy mobility exercise site</em></blockquote> 
   <li>Squadron Outstanding Airman of the Month, 450th Intelligence Squadron | 05/2018</li>
   <li>Awarded (coined) by Director of National Geospatial-Intelligence Agency | 03/2018</li>
-<blockquote><em>Authored a high visibility GEOINT report identifying enemy tactical change that led to theater strategic response changes at the EUCOM level (CONOP)</em></blockquote>
+<blockquote style="font-size:18px"><em>Authored a high visibility GEOINT report identifying enemy tactical change that led to theater strategic response changes at the EUCOM level (CONOP)</em></blockquote>
   <li>Technical Training Academic Achievement Award | 08/2017</li>
   <li>Basic Military Training Honor Grad | 03/2017</li>
 </ul>
@@ -106,7 +119,7 @@ nav_order: 2
  
 <details><summary> </summary>
 <ul>
-  <li>lorem ipsum</li>
+  <li>McNamara, C. J., & McNamara, S. (2021). Perceived Preparedness and (In-)Action: a Multi-Method Analysis of Risk, Behavior, and Socio-Demographics. Working paper.</li>
 </ul>
 </details>
 
@@ -116,7 +129,8 @@ nav_order: 2
  
 <details><summary> </summary>
 <ul>
-  <li>lorem ipsum</li>
+  <li> USAF Group-level Course on GIS Fundamentals, Ramstein AB, 693rd Group | 2022</li>
+  <li> USAF Group-level GIS Instructor for ArcGIS Pro/Data Management (incl. Data QC) | 2019</li>
 </ul>
 </details>
 
