@@ -18,11 +18,11 @@ nav_order: 2
 <h3>Key Compentences</h3>
  
 ***
-<table style="width:100%">
+<table style="width:80%">
 <tbody>
 	<tr>
 		<td>ArcGIS (Rest API, Pro, Map)</td>
-		<td style="width:50%"> </td>
+		<td style="width:20%"> </td>
 		<td>GIS (SOCET GXP, RemoteView, ENVI, ERDAS, Palantir)</td>
 	</tr>
 	<tr>
