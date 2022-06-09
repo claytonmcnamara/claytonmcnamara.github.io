@@ -86,10 +86,10 @@ nav_order: 2
   <li>Awarded (coined) by Deputy Chief of Staff for Headquarters Air Force ISR | 12/2018</li>
   <li>Flight of the Quarter for DOX flight, 450th Intelligence Squadron | 09/2018</li>
   <li>Squadron Outstanding Airman of the Quarter, 450th Intelligence Squadron | 06/2018</li>
-<blockquote style="font-size:18px"><em>Lauded by NASIC for GEOINT threat report identifying enemy mobility exercise site</em></blockquote> 
+<blockquote style="font-size:12px"><em>Lauded by NASIC for GEOINT threat report identifying enemy mobility exercise site</em></blockquote> 
   <li>Squadron Outstanding Airman of the Month, 450th Intelligence Squadron | 05/2018</li>
   <li>Awarded (coined) by Director of National Geospatial-Intelligence Agency | 03/2018</li>
-<blockquote style="font-size:18px"><em>Authored a high visibility GEOINT report identifying enemy tactical change that led to theater strategic response changes at the EUCOM level (CONOP)</em></blockquote>
+<blockquote style="font-size:12px"><em>Authored a high visibility GEOINT report identifying enemy tactical change that led to theater strategic response changes at the EUCOM level (CONOP)</em></blockquote>
   <li>Technical Training Academic Achievement Award | 08/2017</li>
   <li>Basic Military Training Honor Grad | 03/2017</li>
 </ul>
