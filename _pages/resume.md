@@ -18,7 +18,7 @@ nav_order: 2
 <h3>Key Compentences</h3>
  
 ***
-<tables style="width:100%">
+<table style="width:100%">
 <tbody>
 	<tr>
 		<td>ArcGIS (Rest API, Pro, Map)</td>
