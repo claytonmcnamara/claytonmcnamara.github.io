@@ -40,7 +40,7 @@ nav_order: 2
 		<td> </td>
 		<td>Project Management</td>
 	</tr>
-	<tr style="height:20px">
+	<tr style="height:30px">
 		<td> </td>
 		<td> </td>
 		<td> </td>
